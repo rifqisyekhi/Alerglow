@@ -13,3 +13,4 @@
 <li>Rifky Zaini Faroj (1217050122) - Kelas Praktikum E, Teori D</li>
 <li>Rifqi Syekhi Marsaputra (1217050123) - Kelas Praktikum F, Teori D</li>
 </ul>
+
