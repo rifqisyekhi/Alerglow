@@ -2,7 +2,7 @@
 
 <p>Alerglow is an innovative app that uses Convolutional Neural Network (CNN) algorithm to accurately detect skin allergies. With Alerglow, users can easily overcome the difficulty in identifying skin allergy symptoms that are often confusing.</p>
 
-<p>Link Short Promotional Video: <a href="#" target="_blank">Disini</a></p>
+<p>Link Short Promotional Video: <a href="https://www.instagram.com/reel/C63kT-_RZOf/?igsh=M2VyZjlqdnpwY2cx" target="_blank">Disini</a></p>
 
 <p>Link Demo App : <a href="#">Belum Ada</a></p>
 
