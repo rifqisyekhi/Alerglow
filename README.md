@@ -8,6 +8,10 @@ An application for detecting skin allergies solves the problem of difficulties i
 4. Rifqi Syekhi Marsaputra  (1217050123) - Kelas Praktikum F, Teori D
 
 # Demo Application
+
 # Promotion Video
+
 # Proposal
+Proposal : [Click Here](https://drive.google.com/file/d/1iSiqosv2qs0_2WerfvpWrBDEqL3lNW21/view?usp=drive_link)
+
 # Paper
