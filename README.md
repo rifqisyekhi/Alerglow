@@ -10,6 +10,7 @@ An application for detecting skin allergies solves the problem of difficulties i
 # Demo Application
 
 # Promotion Video
+ Promotion Video : [Clik Here](https://www.instagram.com/reel/C63kT-_RZOf/?igsh=MWZ3ZG84Y3VxZDIxZA==)
 
 # Proposal
 Proposal : [Click Here](https://drive.google.com/file/d/1iSiqosv2qs0_2WerfvpWrBDEqL3lNW21/view?usp=drive_link)
