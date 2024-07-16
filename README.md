@@ -8,10 +8,10 @@ The skin allergy detection application aims to solve the problem of difficulty i
 ### Our Team
 |No |  Name                   | Role                     | Class               | NIM        |
 |:-:|:-----------------------:|:------------------------:|:-------------------:|:----------:|
-| 1 | Aditya Muhamad Maulana  | Backend / ML Enginer     |Praktikum D, Teori D | 1207050002 |
+| 1 | Aditya Muhamad Maulana  | Backend / ML Engineer    |Praktikum D, Teori D | 1207050002 |
 | 2 | Arham Syuhada           | Backend Developer        |Praktikum D, Teori D | 1207050017 |
-| 3 | Rifky Zaini Faroj       | Researcher / ML Enginer  |Praktikum E, Teori D | 1217050122 |
-| 4 | Rifqi Syekhi Marsaputra | Frontend / ML Enginer    |Praktikum F, Teori D | 1217050123 |
+| 3 | Rifky Zaini Faroj       | Researcher / ML Engineer |Praktikum E, Teori D | 1217050122 |
+| 4 | Rifqi Syekhi Marsaputra | Frontend / ML Engineer   |Praktikum F, Teori D | 1217050123 |
 
 ### Demo Application
 Demo Aplication : [Click Here](www.youtube.com)
