@@ -8,7 +8,6 @@ function App() {
   return (
     <div className=" transition duration-300 ease-in-out">
       <Navbar />
-
       <Home />
       <Feature />
       <Penyakit />

@@ -45,7 +45,7 @@ def model_predict(img_path, model):
         preds = """
         <div>
         <h1 class="text-xl font-bold text-center text-blue">Hasil Prediksi :</h1>
-            <h2 class="text-2xl font-bold"> Cacar Air</h2>
+            <h2 class="text-2xl text-center font-bold"> Cacar Air</h2>
             <h5 class="text-center text-md font-semibold mt-2">Cara Mengatasi Cacar Air :</h5>
             <ul class="list-disc list-inside mt-2">
                 <li class="text-center mt-1">

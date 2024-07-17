@@ -44,9 +44,9 @@ const Navbar = () => {
         </li>
       </ul>
       <div className="flex items-center gap-x-3">
-        <button className="bg-blue text-white py-2 px-8 rounded-full outline-none">
+        {/* <button className="bg-blue text-white py-2 px-8 rounded-full outline-none">
           Sign In
-        </button>
+        </button> */}
         <FiMenu
           size={24}
           className="block md:hidden"

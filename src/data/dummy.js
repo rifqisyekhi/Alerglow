@@ -1,14 +1,13 @@
-
 import {
   miniOne,
   miniThree,
   miniTwo,
-  orangSakit,
-  darahRendah,
-  contactDetermatities,
-  eksim,
-  biduran,
-  angioedema,
+  psoriasis,
+  herpes,
+  cacar,
+  impetigo,
+  kurap,
+  melanoma,
 } from "../assets";
 
 export const navLink = [
@@ -38,48 +37,48 @@ export const features = [
   {
     image: miniOne,
     title: "Langkah Pertama",
-    desc: "Siap untuk melakukan pemindaian alergi kulit? Pastikan area kulit tidak tertutupi. Ambil pemindaian dengan pencahayaan yang cukup dan ekspresi netral untuk hasil yang optimal.",
+    desc: "Siap foto untuk melakukan pemindaian alergi kulit? Pastikan area kulit tidak tertutupi. Foto diambil dengan pencahayaan yang cukup dan ekspresi netral untuk hasil yang optimal.",
   },
   {
     image: miniTwo,
     title: "Langkah Kedua",
-    desc: "Setelah pemindaian kulit terverifikasi, masukkan informasi usia dan jenis kulit Anda. Informasi ini akan membantu Skin Genius mengidentifikasi alergi kulit anda",
+    desc: "Setelah upload foto berhasil, Alerglow akan melakukan menganalisis kulit Anda.",
   },
   {
     image: miniThree,
     title: "Langkah Ketiga",
-    desc: "Setelah Skin Genius selesai menganalisis, Anda dapat melihat visualisasi tentang kondisi kulit Anda dan Informasi jenis alergi kulit anda. Skin Genius akan memberi saran untuk mengatasi gejala kulit anda",
+    desc: "Setelah Alerglow selesai menganalisis, Anda dapat melihat visualisasi tentang kondisi kulit Anda dan Informasi jenis alergi kulit anda. Alerglow akan memberi saran untuk mengatasi gejala kulit anda",
   },
 ];
 export const sakit = [
   {
-    image: contactDetermatities,
-    title: "Contact Dermatitis",
-    desc: "Ruam merah, Gatal, Lepuh, Rekah",
+    image: cacar,
+    title: "Cacar Air",
+    desc: "Ruam merah, Gatal, Ruam merah tersebut berubah menjadi lepuhan yang berisi cairan.",
   },
   {
-    image: eksim,
-    title: "Eksim",
-    desc: "Kulit kering, Iritasi, Gatal, Merah",
+    image: herpes,
+    title: "Herpes",
+    desc: "Kulit terasa gatal, Lepuhan berisi cairan, Ruam pada kulit",
   },
   {
-    image: biduran,
-    title: "Biduran",
-    desc: "Pembengkakan, Peradangan saat disentuh",
+    image: impetigo,
+    title: "Impetigo",
+    desc: "Lepuh, Ruam, Kerak, Luka",
   },
   {
-    image: angioedema,
-    title: "Angioedema",
-    desc: "Gatal, Pembengkalan pada bibir - mata - tangan dan kaki",
+    image: kurap,
+    title: "Kurap",
+    desc: "ruam merah, bersisik, gatal yang berbentuk cincin",
   },
   {
-    image: darahRendah,
-    title: "darah rendah",
-    desc: "migran ketika baru bangun, badan serasa mau pingsan , mata kabur",
+    image: melanoma,
+    title: "Melanoma",
+    desc: "Munculnya bintik kecoklatan yang besar, Terjadinya perubahan warna dan ukuran pada tahi lalat.",
   },
   {
-    image: orangSakit,
-    title: "Flue",
-    desc: "panas, demam",
+    image: psoriasis,
+    title: "Psoriasis",
+    desc: "Bagian kulit memerah yang terasa kering, tebal dan bersisik",
   },
 ];
