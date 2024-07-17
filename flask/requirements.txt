@@ -1,6 +1,5 @@
 Flask
 flask-cors
 numpy
-tensorflow
-tensorflow-hub
+tensorflow==2.12
 pillow
