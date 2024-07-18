@@ -36,4 +36,4 @@ Promotion Video : [Clik Here](https://www.instagram.com/reel/C63kT-_RZOf/?igsh=M
 Proposal : [Click Here](https://drive.google.com/file/d/1iSiqosv2qs0_2WerfvpWrBDEqL3lNW21/view?usp=drive_link)
 
 ### Paper
-Paper : [CLick Here](https://drive.google.com/file/d/1iSiqosv2qs0_2WerfvpWrBDEqL3lNW21/view?usp=drive_link)
+Paper : [CLick Here](https://drive.google.com/file/d/18SJZ9Oz5KBMRLdqVjSWwEZaGJJ7DiMwf/view?usp=drive_link)
