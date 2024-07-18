@@ -26,14 +26,9 @@ The skin allergy detection application aims to solve the problem of difficulty i
 | **Model Testing**        | Evaluated on separate test set, metrics calculated include accuracy, precision, recall, and F1-score. Confusion matrices generated for performance visualization.       |
 
 
-### Demo Application
-Demo Aplication : [Click Here](www.youtube.com)
-
-### Promotion Video
-Promotion Video : [Clik Here](https://www.instagram.com/reel/C63kT-_RZOf/?igsh=MWZ3ZG84Y3VxZDIxZA==)
-
-### Proposal
-Proposal : [Click Here](https://drive.google.com/file/d/1iSiqosv2qs0_2WerfvpWrBDEqL3lNW21/view?usp=drive_link)
-
-### Paper
-Paper : [CLick Here](https://drive.google.com/file/d/18SJZ9Oz5KBMRLdqVjSWwEZaGJJ7DiMwf/view?usp=drive_link)
+|                  |                                                                                                               |
+|------------------|:-------------------------------------------------------------------------------------------------------------:|
+| Demo Aplication  |  [Click Here](https://youtu.be/-ffuwiatO_o?si=0lA_rzTBd6k0KKor)                                               |
+| Promotion Video  |  [Clik Here](https://www.instagram.com/reel/C63kT-_RZOf/?igsh=MWZ3ZG84Y3VxZDIxZA==)                           |
+| Proposal         |  [Click Here](https://drive.google.com/file/d/1iSiqosv2qs0_2WerfvpWrBDEqL3lNW21/view?usp=drive_link)          |
+| Paper            |  [CLick Here](https://drive.google.com/file/d/18SJZ9Oz5KBMRLdqVjSWwEZaGJJ7DiMwf/view?usp=drive_link)          |
