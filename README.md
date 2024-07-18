@@ -15,6 +15,17 @@ The skin allergy detection application aims to solve the problem of difficulty i
 | 3 | Rifky Zaini Faroj       | Researcher / ML Engineer |Praktikum E, Teori D | 1217050122 |
 | 4 | Rifqi Syekhi Marsaputra | Frontend / ML Engineer   |Praktikum F, Teori D | 1217050123 |
 
+### Methodology
+
+| Stage                    | Description                                                                                                                                                             |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Data Collection**      | Data sourced from Kaggle, categorized into allergic and non-allergic symptoms, and augmented for diversity and prevention of overfitting.                               |
+| **Data Preprocessing**   | Images validated, duplicates removed, resized to 224x224 pixels, and normalized. Data augmentation applied for increased variability.                                   |
+| **Model Architecture**   | CNN employed with convolutional layers for feature extraction, pooling layers for dimensionality reduction, and fully connected layers for classification.              |
+| **Model Training**       | Trained over 15 epochs using Adam optimizer, batch size of 64, with input data of 56x56 pixels. Data augmentation and early stopping used for performance enhancement.  |
+| **Model Testing**        | Evaluated on separate test set, metrics calculated include accuracy, precision, recall, and F1-score. Confusion matrices generated for performance visualization.       |
+
+
 ### Demo Application
 Demo Aplication : [Click Here](www.youtube.com)
 
